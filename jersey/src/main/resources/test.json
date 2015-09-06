@@ -1,0 +1,337 @@
+
+
+{
+  "kind": "books#volumes",
+  "totalItems": 29,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "O14oAAAAYAAJ",
+      "etag": "IQNFgBVOnoE",
+      "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/O14oAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Venereal Diseases",
+        "subtitle": "Including Stricture of the Male Urethra",
+        "authors": [
+          "Edward Lawrence Keyes"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HC4PS5"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "categories": [
+          "Generative organs, Female"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "imageLinks": {
+          "smallThumbnail": "http:\/\/books.google.co.in\/books\/content?id=O14oAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http:\/\/books.google.co.in\/books\/content?id=O14oAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http:\/\/books.google.co.in\/books?id=O14oAAAAYAAJ&pg=PA79&dq=test+inauthor:keyes&as_brr=7&hl=&cd=1&source=gbs_api",
+        "infoLink": "http:\/\/books.google.co.in\/books?id=O14oAAAAYAAJ&dq=test+inauthor:keyes&as_brr=7&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http:\/\/books.google.co.in\/books\/about\/The_Venereal_Diseases.html?hl=&id=O14oAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "http:\/\/books.google.co.in\/books?id=O14oAAAAYAAJ&dq=test+inauthor:keyes&as_brr=7&hl=&buy=&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http:\/\/books.google.co.in\/books\/download\/The_Venereal_Diseases.epub?id=O14oAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http:\/\/books.google.co.in\/books\/download\/The_Venereal_Diseases.pdf?id=O14oAAAAYAAJ&hl=&output=pdf&sig=ACfU3U09CfgOQYpVLNocl_2ra32_4U6NjA&source=gbs_api"
+        },
+        "webReaderLink": "http:\/\/books.google.co.in\/books\/reader?id=O14oAAAAYAAJ&as_brr=7&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The nearer the date of chancre to the time of cauterization, the more likely is this <br>\n<b>test<\/b> to give a positive result, and to call out symptoms of syphilis locally. I have as <br>\nyet no experience with this <b>test<\/b>. It can do no harm to try it, but it will be unwise to&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zSApAAAAYAAJ",
+      "etag": "zHpwrl\/yYfI",
+      "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/zSApAAAAYAAJ",
+      "volumeInfo": {
+        "title": "A History of Savings Banks in the State of New York from Their Inception, in 1819 Down to 1869",
+        "authors": [
+          "Emerson Willard Keyes"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HB0GF9"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "categories": [
+          "Savings banks"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.full.1",
+        "imageLinks": {
+          "smallThumbnail": "http:\/\/books.google.co.in\/books\/content?id=zSApAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http:\/\/books.google.co.in\/books\/content?id=zSApAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http:\/\/books.google.co.in\/books?id=zSApAAAAYAAJ&pg=PA287&dq=test+inauthor:keyes&as_brr=7&hl=&cd=2&source=gbs_api",
+        "infoLink": "http:\/\/books.google.co.in\/books?id=zSApAAAAYAAJ&dq=test+inauthor:keyes&as_brr=7&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http:\/\/books.google.co.in\/books\/about\/A_History_of_Savings_Banks_in_the_State.html?hl=&id=zSApAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "http:\/\/books.google.co.in\/books?id=zSApAAAAYAAJ&dq=test+inauthor:keyes&as_brr=7&hl=&buy=&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http:\/\/books.google.co.in\/books\/download\/A_History_of_Savings_Banks_in_the_State.pdf?id=zSApAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2vZV8IEBjU_bpGqZBWsn76nODzYg&source=gbs_api"
+        },
+        "webReaderLink": "http:\/\/books.google.co.in\/books\/reader?id=zSApAAAAYAAJ&as_brr=7&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To prevent them, every depositor, when he makes his first deposit, is examined <br>\nas to his profession, place of residence, etc. ; his answers are recorded in a book <br>\ncalled the <b>Test<\/b> Book ; and when he again comes to demand payment, unless he<br>\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qKlaWlN-f4IC",
+      "etag": "NYl0ATdhyQs",
+      "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/qKlaWlN-f4IC",
+      "volumeInfo": {
+        "title": "Can we delay a greenhouse warming?",
+        "subtitle": "the effectiveness and feasibility of options to slow a build-up of carbon dioxide in the atmosphere",
+        "authors": [
+          "Stephen Seidel",
+          "Dale L. Keyes",
+          "United States. Environmental Protection Agency. Office of Policy and Resource Management. Strategic Studies Staff"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112102047096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Atmospheric carbon dioxide"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "full-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http:\/\/books.google.co.in\/books\/content?id=qKlaWlN-f4IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http:\/\/books.google.co.in\/books\/content?id=qKlaWlN-f4IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http:\/\/books.google.co.in\/books?id=qKlaWlN-f4IC&pg=SA4-PA26&dq=test+inauthor:keyes&as_brr=7&hl=&cd=3&source=gbs_api",
+        "infoLink": "http:\/\/books.google.co.in\/books?id=qKlaWlN-f4IC&dq=test+inauthor:keyes&as_brr=7&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http:\/\/books.google.co.in\/books\/about\/Can_we_delay_a_greenhouse_warming.html?hl=&id=qKlaWlN-f4IC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "http:\/\/books.google.co.in\/books?id=qKlaWlN-f4IC&dq=test+inauthor:keyes&as_brr=7&hl=&buy=&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http:\/\/books.google.co.in\/books\/download\/Can_we_delay_a_greenhouse_warming.pdf?id=qKlaWlN-f4IC&hl=&output=pdf&sig=ACfU3U3tWMpKFPlzpj39iqoWa9zf03x7Bg&source=gbs_api"
+        },
+        "webReaderLink": "http:\/\/books.google.co.in\/books\/reader?id=qKlaWlN-f4IC&as_brr=7&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "OTHER BASELINE SENSITIVITY <b>TESTS<\/b> In addition to specifying alternative <br>\nenergy use baselines, the sensitivity of the principal model outputs to selected <br>\ninputs was <b>tested<\/b> separately. As noted earlier in this chapter, lower GNP growth <br>\nrates&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QG9KAAAAYAAJ",
+      "etag": "JzbXZUnzkRw",
+      "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/QG9KAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Reports of cases argued and determined in the Court of Appeals of the state of New York",
+        "subtitle": "with notes, references, and an index",
+        "authors": [
+          "Emerson Willard Keyes",
+          "New York (State). Court of Appeals"
+        ],
+        "publishedDate": "1867",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101044486205"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Law reports, digests, etc"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.full.1",
+        "imageLinks": {
+          "smallThumbnail": "http:\/\/books.google.co.in\/books\/content?id=QG9KAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http:\/\/books.google.co.in\/books\/content?id=QG9KAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http:\/\/books.google.co.in\/books?id=QG9KAAAAYAAJ&pg=PA294&dq=test+inauthor:keyes&as_brr=7&hl=&cd=4&source=gbs_api",
+        "infoLink": "http:\/\/books.google.co.in\/books?id=QG9KAAAAYAAJ&dq=test+inauthor:keyes&as_brr=7&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http:\/\/books.google.co.in\/books\/about\/Reports_of_cases_argued_and_determined_i.html?hl=&id=QG9KAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "http:\/\/books.google.co.in\/books?id=QG9KAAAAYAAJ&dq=test+inauthor:keyes&as_brr=7&hl=&buy=&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http:\/\/books.google.co.in\/books\/download\/Reports_of_cases_argued_and_determined_i.epub?id=QG9KAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http:\/\/books.google.co.in\/books\/download\/Reports_of_cases_argued_and_determined_i.pdf?id=QG9KAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3Jx51_x3H0B0mTetsujaMVMMJcfA&source=gbs_api"
+        },
+        "webReaderLink": "http:\/\/books.google.co.in\/books\/reader?id=QG9KAAAAYAAJ&as_brr=7&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If we <b>test<\/b> this judgment by these rules I think it is above all exception. There is, in <br>\nthe first place, a positive statement that the confession is for debts justly owing <br>\nand due from the defendant to the plaintiff. If any part of the amount was not really<br>\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f8E5nIF799sC",
+      "etag": "jXSSoU2LHJI",
+      "selfLink": "https:\/\/www.googleapis.com\/books\/v1\/volumes\/f8E5nIF799sC",
+      "volumeInfo": {
+        "title": "SPECIAL REPORT ON SAVINGS BANKS,",
+        "authors": [
+          "EJMERSON W. KEYES"
+        ],
+        "publishedDate": "1868",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOMDLP:aev0099:0001.001"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.full.1",
+        "imageLinks": {
+          "smallThumbnail": "http:\/\/books.google.co.in\/books\/content?id=f8E5nIF799sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http:\/\/books.google.co.in\/books\/content?id=f8E5nIF799sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http:\/\/books.google.co.in\/books?id=f8E5nIF799sC&pg=PA43&dq=test+inauthor:keyes&as_brr=7&hl=&cd=5&source=gbs_api",
+        "infoLink": "http:\/\/books.google.co.in\/books?id=f8E5nIF799sC&dq=test+inauthor:keyes&as_brr=7&hl=&source=gbs_api",
+        "canonicalVolumeLink": "http:\/\/books.google.co.in\/books\/about\/SPECIAL_REPORT_ON_SAVINGS_BANKS.html?hl=&id=f8E5nIF799sC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "http:\/\/books.google.co.in\/books?id=f8E5nIF799sC&dq=test+inauthor:keyes&as_brr=7&hl=&buy=&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http:\/\/books.google.co.in\/books\/download\/SPECIAL_REPORT_ON_SAVINGS_BANKS.pdf?id=f8E5nIF799sC&hl=&output=pdf&sig=ACfU3U1T3ZmP081zzh9ByUGw0YbNlqJFGg&source=gbs_api"
+        },
+        "webReaderLink": "http:\/\/books.google.co.in\/books\/reader?id=f8E5nIF799sC&as_brr=7&hl=&printsec=frontcover&output=reader&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "They should be open to all or closed to all, according as they abide the <b>test<\/b> which <br>\nwe are now applying to all securities, to determine their character as a safe and <br>\nproper investment for savings banks. A thorough analysis of their character,&nbsp;..."
+      }
+    }
+  ]
+}
+
